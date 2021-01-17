@@ -1,5 +1,4 @@
-Sitemap: https://radovan-pranda.github.io/sitemap.xml
-
+Sitemap: https://radovan-pranda.github.io/maps/sitemap.xml
 User-agent: *
 Disallow: /assets
 Disallow: /assets/
