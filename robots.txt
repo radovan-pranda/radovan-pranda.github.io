@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /assets
+Disallow: /assets/
+Disallow: /fav.ico
+Disallow: /manifest.json
+Sitemap: 
