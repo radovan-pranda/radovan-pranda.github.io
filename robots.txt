@@ -1,7 +1,7 @@
-# https://www.robotstxt.org/robotstxt.html
+Sitemap: https://radovan-pranda.github.io/sitemap.xml
+
 User-agent: *
 Disallow: /assets
 Disallow: /assets/
 Disallow: /fav.ico
 Disallow: /manifest.json
-Sitemap: /sitemap.xml
