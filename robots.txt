@@ -4,4 +4,4 @@ Disallow: /assets
 Disallow: /assets/
 Disallow: /fav.ico
 Disallow: /manifest.json
-Sitemap: 
+Sitemap: /sitemap.xml
